@@ -5,9 +5,8 @@ The project deals with the use of deep learning technologies to classify images 
 The dataset used is a variation of the CIFAR-10 dataset. The images are of different objects/beings and are classified into 8 categories. The categories are: airplane, automobile, bird, cat, deer, dog, frog and horse. The default image size in this dataset is 32x32 pixels of RGB values.
 
 The following image is the ML pipeline used in the project:
-<br>
+
 <img src='ML Pipeline Design/ML Pipeline Design.png' alt='ML Pipeline Design'>
-<br>
 
 The project structure is as follows:
 
@@ -36,7 +35,7 @@ The project structure is as follows:
 <b>Model Prediction:</b> The model is used to predict the category of the image on the test data. No new images are used for prediction.
 
 <b>References:</b>
-<br>
+
 1. https://www.section.io/engineering-education/image-preprocessing-in-python/
 2. https://iq.opengenus.org/basics-of-machine-learning-image-classification-techniques/
 3. https://www.analyticsvidhya.com/blog/2020/02/learn-image-classification-cnn-convolutional-neural-networks-3-datasets/
