@@ -22,15 +22,19 @@ Data Ingestion: Importing the required libraries and dataset.
 Data Preprocessing: The dataset is preprocessed to be used in the model. The techniques of preprocessing the dataset are:
 <br>    
     1. Grayscale Conversion
+    <br>
     2. Normalization
+    <br>
     3. Guassian Blurring
+    <br>
     4. Image Rotation
-<br>
+    <br>
 Model Learning: The model is trained using the preprocessed data. The model implemented is a convolutional neural network (CNN).
 <br>
 Model Evaluation: The model is evaluated using the test data. The evaluation metrics used are:
 <br>
     1. Accuracy
+    <br>
     2. Monitoring the loss
 <br>
 Model Prediction: The model is used to predict the category of the image on the test data. No new images are used for prediction.
