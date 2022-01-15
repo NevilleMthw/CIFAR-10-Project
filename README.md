@@ -10,7 +10,7 @@ The following image is the ML pipeline used in the project:
 <br>
 
 The project structure is as follows:
-<br>
+
 1. Data Ingestion
 2. Data Preprocessing
 3. Model Learning
@@ -20,7 +20,7 @@ The project structure is as follows:
 <b>Data Ingestion:</b> Importing the required libraries and dataset.
 
 <b>Data Preprocessing:</b> The dataset is preprocessed to be used in the model. The techniques of preprocessing the dataset are:
-<br>  
+
 1. Grayscale Conversion
 2. Normalization
 3. Guassian Blurring
@@ -29,13 +29,13 @@ The project structure is as follows:
 <b>Model Learning:</b> The model is trained using the preprocessed data. The model implemented is a convolutional neural network (CNN).
 
 <b>Model Evaluation:</b> The model is evaluated using the test data. The evaluation metrics used are:
-<br>
+
 1. Accuracy
 2. Monitoring the loss
 
 <b>Model Prediction:</b> The model is used to predict the category of the image on the test data. No new images are used for prediction.
 
-References:
+<b>References:</b>
 <br>
 1. https://www.section.io/engineering-education/image-preprocessing-in-python/
 2. https://iq.opengenus.org/basics-of-machine-learning-image-classification-techniques/
